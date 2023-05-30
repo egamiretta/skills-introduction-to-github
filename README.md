@@ -7,7 +7,7 @@
 
 # My New Read Me File
 
-_Get started using GitHub in less than an hour._
+_I'm praticing coding through GitHub. This is my first time doing this._
 
 <!--
   <<< Author notes: Start of the course >>>
